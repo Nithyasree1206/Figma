@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Date:14.05.2025
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -142,6 +142,8 @@ export const HomePage = () => {
 };
 
 EVENT DETAILS
+
+
 <div style="width: 560px; height: 946px; position: relative; background: white; overflow: hidden">
   <img style="width: 720px; height: 1280px; left: -50px; top: -303px; position: absolute" src="https://placehold.co/720x1280" />
   <div style="width: 449px; height: 94px; left: 45px; top: 212px; position: absolute; background: rgba(0, 0, 0, 0.50)"></div>
